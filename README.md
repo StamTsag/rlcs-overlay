@@ -8,8 +8,11 @@
 ## Overlay setup
 
 `git clone https://github.com/Shadofer/rlcs-overlay.git`
+
 `cd rlcs-overlay`
+
 `npm install`
+
 `npm run build`
 
 After that select the html file located in `/build/index.html`
