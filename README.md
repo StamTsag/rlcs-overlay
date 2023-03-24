@@ -16,3 +16,7 @@
 `npm run build`
 
 After that select the html file located in `/build/index.html`
+
+## Preview
+
+<img src='https://raw.githubusercontent.com/Shadofer/rlcs-overlay/master/.github/assets/preview.png'>
