@@ -1,0 +1,18 @@
+html {
+    background: url(/assets/local-map.webp);
+    background-position-x: center;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-clip: padding-box;
+    height: 100vh;
+    margin: 0;
+}
+
+body {
+    margin: 0;
+}
+
+* {
+    font-family: Dosis, Nunito Sans;
+}
